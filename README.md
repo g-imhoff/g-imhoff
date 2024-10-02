@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 ## 🚀 My Skills and Interests
 
 ### 💻 Software Development
-- **Languages**: JavaScript, TypeScript, C++.
-- **Frontend**: React, Next.js, TailwindCSS.
+- **Languages**: TypeScript, C++.
+- **Frontend**: React, TailwindCSS.
 - **Tools**: Neovim, Docker, WSL2, Git.
 
 ---
