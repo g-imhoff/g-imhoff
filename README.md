@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guillaume
 
-I'm a Master's student in Computer Science — **Software Science and Engineering (SIL)** — at the **University of Strasbourg**, on a work-study program alongside my studies, and aiming for a **PhD in high-performance computing and compilation**.
+I'm a Master's student in Computer Science — **Software Science and Engineering (SIL)** — at the **University of Strasbourg**, on a work-study program alongside my studies.
 
 - 🔭 Currently building **[Expand](https://github.com/g-imhoff/expand)** — an AI-assisted development workflow tool (desktop app + backend + CLI orchestrating coding agents).
 - 💻 Main languages: **C, C++**, TypeScript, C#, Kotlin.
