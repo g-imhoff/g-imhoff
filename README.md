@@ -1,30 +1,16 @@
----
+# 👋 Hi, I'm Guillaume
 
-# 👋 Hello, I'm @g-imhoff!
+I'm a Master's student in Computer Science — **Software Science and Engineering (SIL)** — at the **University of Strasbourg**, on a work-study program alongside my studies, and aiming for a **PhD in high-performance computing and compilation**.
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** with a deep interest in **music production** and **software development**. I’m the creator behind the YouTube channel **Future Expansion**, where I teach people how to create beats and songs. Here, you’ll find repositories showcasing my journey in **software engineering**.
-
----
-
-## 🚀 My Skills and Interests
-
-### 💻 Software Development
-- **Languages**: TypeScript, C++.
-- **Frontend**: React, TailwindCSS.
-- **Tools**: Neovim, Docker, WSL2, Git.
-
----
+- 🔭 Currently building **[Expand](https://github.com/g-imhoff/expand)** — an AI-assisted development workflow tool (desktop app + backend + CLI orchestrating coding agents).
+- 💻 Main languages: **C, C++**, TypeScript, C#, Kotlin.
+- 🧠 Interests: systems programming (POSIX), compilers, parallel computing (OpenMP, MPI), code optimization.
+- 🎵 Off-keyboard: music production — I ran **Future Expansion**, a YouTube channel teaching people how to create beats and songs.
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-imhoff&show_icons=true&theme=tokyonight)
 
----
+## 📫 Let's Connect
 
-## 📫 Let's Connect!
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/guillaume-imhoff-059ba3314/)
-- **Email**: [guillaume.imhoff170804@gmail.com](mailto:guillaume.imhoff170804@gmail.com)
-
-Feel free to explore my repositories and reach out if you're interested in collaborating!
-
----
+[LinkedIn](https://www.linkedin.com/in/guillaume-imhoff-059ba3314/) · [guillaume.imhoff170804@gmail.com](mailto:guillaume.imhoff170804@gmail.com)
